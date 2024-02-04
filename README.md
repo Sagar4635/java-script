@@ -1,3 +1,3 @@
 # java-script
-java script github set up:
-Author- Sagar Singh
+Java script github set up
+<br>Author- Sagar Singh
